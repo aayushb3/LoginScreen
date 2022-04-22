@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D87B4F7C-8205-474C-8896-E225C88A4C44"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B18D038C-BC09-4B4A-8861-3FD6E0BB6268"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FreshLoginProject/ViewControllers/SignUpViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "SignUpViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "B18D038C-BC09-4B4A-8861-3FD6E0BB6268 - 8a235fa1fdfb12fa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FreshLoginProject.SignUpViewController.signUpButton.getter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "FreshLoginProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pavithrareddy/Desktop/xcode/FreshLoginProject/FreshLoginProject/ViewControllers/SignUpViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "B18D038C-BC09-4B4A-8861-3FD6E0BB6268 - a2c5f124104ce106"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FreshLoginProject.SignUpViewController.signUpButton.setter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "FreshLoginProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pavithrareddy/Desktop/xcode/FreshLoginProject/FreshLoginProject/ViewControllers/SignUpViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "B18D038C-BC09-4B4A-8861-3FD6E0BB6268 - 769aa2ff2a13f6f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FreshLoginProject.SignUpViewController.signUpButton.modify : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "FreshLoginProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pavithrareddy/Desktop/xcode/FreshLoginProject/FreshLoginProject/ViewControllers/SignUpViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "B18D038C-BC09-4B4A-8861-3FD6E0BB6268 - 7ac5768ff2a2bc15"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FreshLoginProject.SignUpViewController.signUpButton.modify : Swift.Optional&lt;__C.UIButton&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "FreshLoginProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pavithrareddy/Desktop/xcode/FreshLoginProject/FreshLoginProject/ViewControllers/SignUpViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "B18D038C-BC09-4B4A-8861-3FD6E0BB6268 - 45b05145c6c62119"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FreshLoginProject.SignUpViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; FreshLoginProject.SignUpViewController"
+                  moduleName = "FreshLoginProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pavithrareddy/Desktop/xcode/FreshLoginProject/FreshLoginProject/ViewControllers/SignUpViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "339">
+               </Location>
+               <Location
+                  uuid = "B18D038C-BC09-4B4A-8861-3FD6E0BB6268 - 2139b609bc88fbf1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FreshLoginProject.SignUpViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;FreshLoginProject.SignUpViewController&gt;"
+                  moduleName = "FreshLoginProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pavithrareddy/Desktop/xcode/FreshLoginProject/FreshLoginProject/ViewControllers/SignUpViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "296">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
